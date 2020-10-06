@@ -1,0 +1,5 @@
+[info] SetSuite:
+[info] - The server should answer with OK status code
+[info] - First user should be successfully retrieved
+[info] - User should be added
+[info] - User should be deleted

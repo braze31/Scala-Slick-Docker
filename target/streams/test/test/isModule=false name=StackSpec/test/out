@@ -1,0 +1,4 @@
+[info] StackSpec:
+[info] A Stack
+[info] - should pop values in last-in-first-out order
+[info] - should throw NoSuchElementException if an empty stack is popped

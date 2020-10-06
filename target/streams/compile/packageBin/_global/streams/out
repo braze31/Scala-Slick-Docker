@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\scalaslick_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSupport$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\JsonSupport$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\JsonSupport.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\UserData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\UserData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserWithoutId$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\UserWithoutId$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserWithoutId.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\braze\OneDrive\Desktop\ScalaSlick\target\scala-2.13\classes\UserWithoutId.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
